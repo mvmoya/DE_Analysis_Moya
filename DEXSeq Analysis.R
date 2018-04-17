@@ -4,7 +4,7 @@
 pythonScriptsDir = system.file( "python_scripts", package="DEXSeq" )
 list.files(pythonScriptsDir)
 
-#From here, refer to DEXSeq Sample Prep file for the Command Line inputs to generate the appropriate exon counts.
+#From here, refer to DEXSeq counts preparation file for the Command Line inputs to generate the appropriate exon counts.
 
 setwd("~/Desktop/Bam_files")
 #set the working directory to whichever folder contains all your aligned .txt files and their reference .gff
