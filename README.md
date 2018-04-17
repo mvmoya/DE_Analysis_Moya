@@ -1,2 +1,3 @@
-# DE_Analysis_Moya
-Strategies for Differential Gene Expression Analysis
+# Strategies for Differential Gene Expression Analysis
+
+Counts generated using HTSeq following STAR alignment.
