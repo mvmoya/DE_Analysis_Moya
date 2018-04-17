@@ -1,5 +1,5 @@
-# Employ pandas for visualizing changes in gene expression across timepoints between two groups.
-# NOTE: No statistics is included in this analysis. This is purely for visualization purposes.
+## Employ pandas for visualizing changes in gene expression across timepoints between two groups.
+## NOTE: No statistics is included in this analysis. This is purely for visualization purposes.
 
 from matplotlib import pyplot as plt
 import math
